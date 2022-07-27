@@ -50,7 +50,7 @@
 <p> Spatially, estimates indicate higher scores for Brazil, followed by Argentina, and the lowest scores are found (curiously) in Chile. Correlations respect to Chile (bottom right panel), however, indicate not relevant association between countries. </p>
 
 <p align="center">
-	<img src="lkj_model/map_dists.png" width="600" height="600" />
+	<img src="lkj_model/map_dists.png" width="800" height="800" />
 </p>
 
 <h1> Conclusion </h1>
@@ -95,7 +95,7 @@
 <p> Spatially, estimates indicate higher scores for Brazil, followed by Argentina and Peru, and the lowest scores are found (curiously) in Chile. </p>
 
 <p align="center">
-	<img src="gp_model/map_dists.png" width="600" height="600" />
+	<img src="gp_model/map_dists.png" width="800" height="800" />
 </p>
 
 <h1> Conclusion </h1>
