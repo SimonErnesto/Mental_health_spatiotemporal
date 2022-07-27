@@ -1,7 +1,7 @@
 <h1> Gaussian Random Walk and Gaussian Process applied to Global Mental Health data </h1>
 
 <p>
-	The present repository contains results from spatiotemporal models applied to results from a mental health questionnaire used to asses mental health globally during the covid-19 pandemic (Olff et al., 2022). Models are simply a proof of concept, so they were applied to the south-American region only.
+	The present repository contains results from spatiotemporal models applied to results from a mental health questionnaire, Global Psychotrauma Screen (GPS), used to asses mental health globally during the covid-19 pandemic (Olff et al., 2022). Models are simply a proof of concept, so they were applied to the south-American region only.
 </p>
 <p></p>
 
